@@ -1,2 +1,1 @@
-game.Players.LocalPlayer:Kick("Sorry!! Script is P
-patched for now!! Making new soon!")
+game.Players.LocalPlayer:Kick("Sorry!! Script is patched for now!! Making new soon!")
